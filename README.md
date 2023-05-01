@@ -1,2 +1,2 @@
-# mlopsonazure
-Some learning resources for the MLOps on Azure training
+# MLOps on Azure: Learning materials
+This repo contains some of the materials that accompany the training sessions.
