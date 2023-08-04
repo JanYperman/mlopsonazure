@@ -29,3 +29,5 @@ After setting up the machine learning pipeline during the first workshop, we'll 
    7. Check that the code check is properly triggered
    8. Approve the PR
    9. Check in Azure ML whether the pipeline schedule was updated
+## Solution
+Solution is available at: https://github.com/JanYperman/azuremlworkshop
